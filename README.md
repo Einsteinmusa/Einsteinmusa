@@ -2,7 +2,7 @@
 - 👀 I’m interested in general programming and coding.
 - 🌱 I’m currently learning all programming
 - 💞️ I’m looking to collaborate on any coding challange
-- 📫 How to reach me ...emial @ - mosemonru7@gmail.com
+- 📫 How to reach me ...email @ - mosemonru7@gmail.com
 
 <!---
 Einsteinmusa/Einsteinmusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
